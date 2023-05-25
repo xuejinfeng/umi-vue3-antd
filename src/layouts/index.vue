@@ -2,7 +2,7 @@
   <div class="navs">
     <ul>
       <li>
-        <router-link to="/"></router-link>
+        <router-link to="/">主页</router-link>
       </li>
       <li>
         <router-link to="/docs">Docs</router-link>
@@ -17,7 +17,7 @@
       </li>
       <li>
         <!-- <a href="/home/cart">分类</a> -->
-        <router-link to="/shop/cart">商品分类</router-link>
+        <!-- <router-link to="/shop/cart">商品分类</router-link> -->
       </li>
     </ul>
     <router-view></router-view>
