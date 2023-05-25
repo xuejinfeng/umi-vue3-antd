@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "author": "xuejinfeng",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "ant-design-vue": "^3.2.20",
+    "umi": "^4.0.69",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@umijs/preset-vue": "^4.0.69",
+    "typescript": "^5.0.3"
+  }
+}
